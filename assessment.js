@@ -29,7 +29,7 @@ resultDivided.appendChild(twitter);
 
 
 };
-    const answers=['{userName}のいいところは。','{userName}の駄目なところは。','{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒されています。'
+    const answers=['{userName}のいいところは。','{userName}の駄目なところは。','{userName}のいいところは優しさです {userName}の優しい雰囲気や立ち振る舞いに多くの人が癒されています。'
 
     ];
 
